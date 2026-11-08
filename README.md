@@ -46,7 +46,8 @@ Code was written with AI assistance (Claude), then run and checked by the author
 
 ## Author and license
 Fatemeh Salahpour-Anarjan, PhD · Tabriz University of Medical Sciences
-License: MIT
+
+
 ## Visualizations
 
 ### 1. Gene Correlation Heatmap
