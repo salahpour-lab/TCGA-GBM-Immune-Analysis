@@ -47,3 +47,13 @@ Code was written with AI assistance (Claude), then run and checked by the author
 ## Author and license
 Fatemeh Salahpour-Anarjan, PhD · Tabriz University of Medical Sciences
 License: MIT
+## Visualizations
+
+### 1. Gene Correlation Heatmap
+![Gene Correlation](fig1_gene_correlation.png)
+
+### 2. Kaplan-Meier Survival Curve
+![Kaplan-Meier](fig2_KM_signature.png)
+
+### 3. Forest Plot for Gene-Level Cox Regression
+![Forest Plot](fig3_forest.png)
