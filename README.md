@@ -45,7 +45,7 @@ This is an observational analysis, not a test of any therapy.
 Code was written with AI assistance (Claude), then run and checked by the author.
 
 ## Author and license
-Fatemeh Salahpour-Anarjan, PhD · Tabriz University of Medical Sciences
+Fatemeh Salahpour-Anarjan, PhD · Tabriz University of Medical Sciences 
 
 
 ## Visualizations
